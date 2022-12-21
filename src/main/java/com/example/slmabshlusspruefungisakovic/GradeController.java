@@ -18,7 +18,8 @@ public class GradeController {
        } else if (percentage>= 50) {
            return 4;
        }else{
-       return 5;}
+       return 5;
+       }
 
 
     }
